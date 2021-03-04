@@ -13,7 +13,7 @@ See the quiz here: https://twitter.com/WomenWhoCode/status/1367544138913239043
 # Solution
 
 As presented, there are a couple of issues with the code. However, my solution is done in Java. There could be other solutions to the problem depending on the 
-programming language that you decide to use. My specialty is Java and C++ with Python trailing behind as my top programming languages.
+programming language that you decide to use. My specialty is Java and C++ with Python trailing behind as my top programming language.
 
 
 # Link to Solution
